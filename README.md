@@ -15,6 +15,7 @@ Data Cleaning: Missing values handled, date formats standardized, and calculated
 🚀 Steps to Build the Dashboard
 
 Data Loading:
+
 Import HR dataset into Power BI using Get Data.
 Verify data types and relationships.
 
